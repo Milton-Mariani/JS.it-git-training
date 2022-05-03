@@ -3,3 +3,4 @@
 -patate
 -carote
 -zucchine
+-sale
